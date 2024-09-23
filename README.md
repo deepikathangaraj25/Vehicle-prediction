@@ -26,7 +26,9 @@ cd ultralytics/yolo/v8/segment
 
 **Downloading the DeepSORT Files From The Google Drive**
 https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sharing
-. After downloading the DeepSORT Zip file from the drive, unzip it go into the subfolders and place the deep_sort_pytorch folder into the ultralytics/yolo/v8/segment folder.
+
+. After downloading the DeepSort Zip file from the drive, unzip it go into the subfolders and place the deep_sort_pytorch folder into the ultralytics/yolo/v8/segment folder.
+
 . Downloading a Sample Videos from the Google Drive.
 
 
