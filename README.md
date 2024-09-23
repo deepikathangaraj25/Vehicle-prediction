@@ -5,7 +5,9 @@
   
 # Technologies
 Computer Vision: Multi-scale Detector (a customized YOLO architecture) for object detection and a fusion of DeepSORT and Centroid Sort algorithms for vehicle tracking.
+
 Dataset: A custom dataset was created to train the models, with augmentation techniques to prevent overfitting and improve generalization.
+
 LED Display: A real-time display board provides information on vehicle types, passage time, and vehicle count to oncoming traffic.
 
 # Steps to run Code
