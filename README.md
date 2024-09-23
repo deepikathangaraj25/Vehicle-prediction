@@ -31,6 +31,8 @@ Downloading a Sample Videos from the Google Drive.
 **Input Video**
 gdown "https://drive.google.com/uc?id=19P9Cf9UiJ9gU9KHnAfud6hrFOgobETTX"
 
+![Screenshot (161)](https://github.com/user-attachments/assets/c421be58-1444-49d2-999a-6a7eeaa2436f)
+
 Run the code with mentioned command below.
 
 **For yolov8 segmentation + Tracking**
